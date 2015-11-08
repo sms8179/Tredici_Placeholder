@@ -3,9 +3,6 @@ app/
 bower_components/
 node_modules/
 test/
-dist/
 bower.json
 gulpfile.babel.js
 package.json
-
-!dist/*
