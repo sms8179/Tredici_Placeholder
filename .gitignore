@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-*/*
 
-!dist/*
-=======
 .tmp/
 app/
 bower_components/
@@ -11,4 +7,3 @@ test/
 bower.json
 gulpfile.babel.js
 package.json
->>>>>>> master
